@@ -21,4 +21,4 @@ BACKUP_DIRS=(
 
 # Disclaimer
 
-Whilst every care has been taken to ensure that the information and code contained in this repository is correct and complete, it is possible that this is not the case. The software is provided "as is", without any warranty for its soundness, suitability for a different purpose or otherwise. i am not liable for any damage which has occurred or may occur as a result of or in any respect related to the use of the software in this repository. 
+Whilst every care has been taken to ensure that the information and code contained in this repository is correct and complete, it is possible that this is not the case. The software is provided "as is", without any warranty for its soundness, suitability for a different purpose or otherwise. I am not liable for any damage which has occurred or may occur as a result of or in any respect related to the use of the software in this repository. 
